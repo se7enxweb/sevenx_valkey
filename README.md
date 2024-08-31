@@ -16,7 +16,7 @@ A PHP extension for Redis and other compatible key / value store databases.
 
 This software is required and must be installed before using this solution.
 
-From: [https://valkey.io/](https://github.com/phpredis/phpredis)
+From: [https://github.com/phpredis/phpredis](https://github.com/phpredis/phpredis)
 
 ## Installation
 
