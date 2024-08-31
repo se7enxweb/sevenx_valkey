@@ -68,10 +68,16 @@ class sevenxTemplateValkeyOperator
 
             $command = $namedParameters['function'];
             $commandParameters = $namedParameters['function_parameters'];
-
             $commandParameters = array_merge( array( $command ), $commandParameters );
-            $inputValue = call_user_func_array(array($valkeyDB, "rawCommand"), $commandParameters );
-            //$inputValue = $valkeyDB->rawCommand($command, $commandParameters);
+
+            $result = call_user_func_array(array($valkeyDB, "rawCommand"), $commandParameters );
+
+            if( $result != '1' && $result != '0' )
+            {
+                $inputValue = $result;
+            }
+
+            $valkeyDB->close();
         }
     }
 
