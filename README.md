@@ -10,6 +10,14 @@ Valkey is an open source key-value data store that supports a variety of workloa
 
 From: [https://valkey.io/](https://valkey.io/)
 
+## php-redis php extension
+
+A PHP extension for Redis and other compatible key / value store databases.
+
+This software is required and must be installed before using this solution.
+
+From: [https://valkey.io/](https://github.com/phpredis/phpredis)
+
 ## Installation
 
 Follow these steps to add the sevenx_valkey template operator extension to your eZ publish installation:
