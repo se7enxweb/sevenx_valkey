@@ -18,6 +18,20 @@ This software is required and must be installed before using this solution.
 
 From: [https://github.com/phpredis/phpredis](https://github.com/phpredis/phpredis)
 
+## Use Cases
+
+Here are some common use cases:
+
+    Session Storage.
+    Caching.
+    Real-time Recommendations.
+    Leaderboards and Counting.
+    User Profiles and Preferences.
+    Queueing Systems.
+    IoT and Time-Series Data.
+    Configuration Management.
+
+
 ## Installation
 
 Follow these steps to add the sevenx_valkey template operator extension to your eZ publish installation:
