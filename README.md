@@ -4,6 +4,8 @@ sevenx_valkey is an extension that allows the integration of the Redis Compabibl
 
 Version: 1.0.0
 
+![7x-Valkey-Now-Available-2024-09](https://github.com/user-attachments/assets/fe1da3c1-d413-4c73-9e09-537ca628a9a0)
+
 ## About Valkey
 
 Valkey is an open source key-value data store that supports a variety of workloads such as caching, and message queues. Valkey GLIDE is one of the official client libraries for Valkey and it supports all Valkey commands. GLIDE supports Valkey 7.2 and above, and Redis open source 6.2, 7.0, and 7.2.
