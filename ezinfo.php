@@ -13,7 +13,7 @@ class sevenxthemessimpleInfo
     public static function info()
     {
         return array( 'Name' => "<a href='https://github.com/se7enxweb/sevenx_valkey'>7x Valkey</a>",
-                      'Version' => "1.0.0",
+                      'Version' => "1.0.3",
                       'Copyright' => "Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or later)",
                       'info_url' => "https://github.com/se7enxweb/sevenx_valkey"
