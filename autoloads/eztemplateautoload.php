@@ -3,7 +3,7 @@
 // ## BEGIN COPYRIGHT, LICENSE AND WARRANTY NOTICE ##
 // SOFTWARE NAME: 7x Valkey
 // SOFTWARE RELEASE: 1.0.0
-// COPYRIGHT NOTICE: Copyright (C) 1999-2024 7x
+// COPYRIGHT NOTICE: Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //  This program is free software; you can redistribute it and/or
